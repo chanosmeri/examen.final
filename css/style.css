@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+header {
+    margin-top: 50px;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+.icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card .badge {
+    margin: 5px;
+}
+
+#proyectos img {
+    margin-bottom: 20px;
+}
+
+#testimonios .carousel-item img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+footer {
+    margin-top: 50px;
+}
+.contact-section {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 500px;
+    width: 1500px;
+    margin-left: 11%
+}
+
+.contact-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.contact-section p {
+    font-size: 1.2rem;
+}
+
+.contact-button {
+    background-color: white;
+    color: #007bff;
+    border: 2px solid white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.contact-button:hover {
+    filter: opacity(90%);
+}
+  #testimonios h2 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3rem;
+  }
+  
+  #testimonios p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  
+  .carousel-item blockquote {
+    font-size: 1.25rem;
+    margin: 1rem auto;
+    max-width: 1000px;
+  }
+  
+  .carousel-item blockquote footer {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  .card-body i{
+    font-size: 100px;
+  }
